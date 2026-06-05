@@ -3,7 +3,7 @@ A dataset of 10,000 bank customers containing demographic, financial, and engage
 
 # Airlines-Dashboard
 
-### Dashboard Link :  [Bank_Churn_Dashboard.pdf](https://github.com/Masoom0112/1stProject/blob/71a8b5ec37a56fae1c4aadc457507b7312251664/Bank_Churn_Dashboard.pdf)
+### Dashboard Link : https://github.com/Masoom0112/1stProject/blob/84aee7a0846a8626d5cd326f7f5a87e286ca47d7/Bank_Churn_Dashboard.pdf
 
 ## Problem Statement
 
