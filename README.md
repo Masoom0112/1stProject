@@ -4,7 +4,6 @@ A dataset of 10,000 bank customers containing demographic, financial, and engage
 # Airlines-Dashboard
 
 ### Dashboard Link : https://github.com/Masoom0112/1stProject/blob/84aee7a0846a8626d5cd326f7f5a87e286ca47d7/Bank_Churn_Dashboard.pdf
-
 ## Problem Statement
 
 Customer churn directly impacts revenue and long-term growth.
