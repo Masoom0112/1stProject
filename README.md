@@ -15,7 +15,7 @@ The bank wants to understand:
 - Whether high-value or financially reliable customers are at risk
 - Where to focus retention efforts
 
-### Dataset Link : 
+### Dataset Link : https://github.com/Masoom0112/1stProject/blob/b6013e416c0fc94c287163dc7658ade2effc01c0/Bank_Churn.csv
 ### Dataset Dictionary Link : 
 
 # Tool Used
