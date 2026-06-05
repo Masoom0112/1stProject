@@ -16,7 +16,7 @@ The bank wants to understand:
 - Where to focus retention efforts
 
 ### Dataset Link : https://github.com/Masoom0112/1stProject/blob/b6013e416c0fc94c287163dc7658ade2effc01c0/Bank_Churn.csv
-### Dataset Dictionary Link : 
+### Dataset Dictionary Link : https://github.com/Masoom0112/1stProject/blob/2fd6e9bcfaf2bb24c358c2691ad6763af5374530/Bank_Churn_Data_Dictionary.csv
 
 # Tool Used
 
