@@ -29,8 +29,21 @@ The bank wants to understand:
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present.
-- Step 5 :  
-- Step 6 :
+- Step 5 : Inspect every column individually.
+  
+              Verify:
+                (a) Missing values
+                (b) Errors
+                (c) Data types
+                (d) Outliers
+   
+- Step 6 : In PowerQuery Editor, new columns were added under 'add column' section using 'conditional column' in which, customers were grouped into various groups:
+
+                   (a) Age Group
+                   (b) Salary Band
+                   (c) Credit Score Bins
+                   (d) Balance Groups
+     
 - Step 7 :  
 - Step 8 : 
 - Step 9 : 
