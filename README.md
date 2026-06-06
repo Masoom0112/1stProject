@@ -322,5 +322,24 @@ The bank wants to understand:
 
 # Insights
 
-# Business Recommendations
+ - There were a total of 10000 custor records in this dataset in which 2037 coustomers exited the bank. When calculated the churn rate came out to around 20%.
+ - Germany shows the highest churn rate among all regions,i.e, around 32%, with a significantly higher churn rate compared to France(~15%) and Spain(~ 16%).Therefore this difference indicates towards a region-specific churn issue.
+ - Customers who are not active members exhibit a significantly higher churn rate compared to active members by a difference of almost 14% in churn rate.this suggests that customer engagement is a major contributor to overall churn, and likely plays a key role in explaining churn patterns observed across regions.
+ - Customers aged 40 and above(around 35-55%) exhibit a higher churn rate compared to younger age groups, indicating a clear age-related churn pattern which also aligns with the observation with activity status, as a larger proportion of inactive customers fall within the 40+ age group, suggesting a strong relationship between age, engagement, and churn.
+ - Customers in the low but non-zero account balance group exhibit the highest churn rate, exceeding both zero-balance and higher-balance segments with second highest being the highest-balance group, which raises a business concern.
+ - Customers in the lowest credit score band exhibit the highest churn rate, while churn differences across higher credit score bands are relatively modest.
+ - The average credit scores of churned and retained customers are relatively similar, suggesting that credit score alone is not a strong indicator of customer churn.
+ - Female customers exhibit a higher churn rate compared to male customers, suggesting an opportunity for the bank to further investigate customer experience, product preferences, and engagement strategies within this segment.
+ - Customers holding multiple products generally show stronger retention.
+ - Credit card ownership appears to have minimal impact on customer churn, as churn rates remain relatively similar for customers with and without a credit card.
+ - Since there is no significante difference in churn rate by balance, high-balance customers being valuable to the bank, so reducing churn in this group should be a key priority.
+
+# Recommendations
+
+ - Deeper investigation into customer behavior and potential regional factors.
+ - Focus churn-reduction initiatives in high-risk regions.
+ - Develop retention programs for inactive customers.
+ - Monitor high-risk segments continuously.
+
+   
 
